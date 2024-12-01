@@ -1,0 +1,2 @@
+# OMi-ai
+education
